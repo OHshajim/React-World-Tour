@@ -1,4 +1,11 @@
 .container{
     display: grid;
-    grid-template-columns: repeat(3,2fr);
+    grid-template-columns: repeat(3,1fr);
+}
+.ImgContainer img {
+    width: 100px;
+    height: 70px;
+    border-radius:20px ;
+    margin-right: 20px;
+    margin-top: 10px;
 }

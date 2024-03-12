@@ -7,3 +7,11 @@
 .visited{
     background: rgba(57, 85, 103, 0.879);
 }
+.btn{
+    margin-bottom: 20px;
+    color: rgb(122, 194, 197);
+    
+}
+.btn:hover{
+    color: rgb(7, 160, 109);
+}
